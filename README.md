@@ -1,7 +1,10 @@
 # TryBypassMe Level 3 Bypassed
 
-External bypass PoC for **TryBypassMe**, the anti-cheat crackme series by [ali123x](https://www.unknowncheats.me/forum/anti-cheat-research/743802-trybypassme-bypass-anti-cheat.html) on UnknownCheats. This targets **Level 3**, the hardest of the three, which per the author's own writeup ships with:
+External bypass PoC for **TryBypassMe**, the anti-cheat crackme series by [ali123x](https://www.unknowncheats.me/forum/anti-cheat-research/743802-trybypassme-bypass-anti-cheat.html) on UnknownCheats. 
 
+![Screenshot of the bypass running.](/images/image.png)
+
+This targets **Level 3**, the hardest of the three, which per the author's own writeup ships with:
 - External watchdog process with HMAC-authenticated named pipe
 - Watchdog CRC32 disk hash verification
 - AcToken 3-word commit (no single detection flag)
